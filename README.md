@@ -1,12 +1,21 @@
 Machine Learning Internship — Codtech IT Solutions
+
 Internship Details
+
 Field	Details
+
 Candidate Name	MUTTIREDDY SIVA NAGA MAHESWARI
+
 Intern ID	CITS1298
+
 Domain	Machine Learning
+
 Organization	Codtech IT Solutions Pvt. Ltd.
+
 Duration	8 Weeks
+
 Internship Period	21 May 2026 – 16 July 2026
+
 🏢 About the Organization
 Codtech IT Solutions Pvt. Ltd.
 Information Technology Services
